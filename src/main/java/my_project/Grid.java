@@ -9,7 +9,7 @@ import KAGO_framework.view.DrawTool;
 import java.awt.*;
 
 public class Grid extends GraphicalObject {
-
+    int size = 12;
     public void draw(DrawTool drawTool, int size) {
         for (int i = 0; i < size; i++) {
             for (int j = 0; j < size; j++) {
