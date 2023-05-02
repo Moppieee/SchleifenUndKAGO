@@ -23,6 +23,6 @@ public class Grid extends GraphicalObject {
 
             }
         }
-        System.out.println("HALLO");
+        System.out.println("it workin´");
     }
 }
